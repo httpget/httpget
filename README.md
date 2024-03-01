@@ -1,4 +1,4 @@
-<h2 style="font-size: 1px">hi!!! i'm wyatt!!</h2>
+<h2>hi!!! i'm wyatt!!</h2>
 <h3>i do a lot of silly things</h3>
 
 i find ai and reverse engineering extremely interesting (and data collection but we don't talk about that!!)<br>
