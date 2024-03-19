@@ -13,5 +13,6 @@
  λ ~ # i know how to use these:
  λ ~ cat langs.txt
  lua, javascript, c/c++, and rust
+ (but i prefer lua & javascript)
  λ ~ 
 ```
