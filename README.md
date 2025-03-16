@@ -21,3 +21,4 @@
 ### contact ↴
 - wya77 on discord
 - wya.77 on signal
+- wya77 on github
